@@ -1,1 +1,1 @@
-"new file on new-branch-B1" 
+"new file on new-branch-B1""modified in Branch: new-branch-B1"  
